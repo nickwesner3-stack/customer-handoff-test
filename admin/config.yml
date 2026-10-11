@@ -2,7 +2,7 @@ backend:
   name: github
   repo: nickwesner5-prog/customer-handoff-test
   branch: main
-  base_url: https://site2-off.nickwesner3.workers.dev
+  base_url: https://customer-editor-auth.nickwesner5.workers.dev
   auth_endpoint: auth
 media_folder: images/uploads
 public_folder: /images/uploads

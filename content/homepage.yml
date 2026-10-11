@@ -184,9 +184,9 @@ site_images:
   image_001: https://images.unsplash.com/photo-1558904541-efa843a96f01?auto=format&fit=crop&w=2200&q=90
   image_002: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2200&q=90
   image_003: https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=2200&q=90
-  image_004: https://images.unsplash.com/photo-1558521558-037f1cb027c5?auto=format&fit=crop&w=1600&q=90
-  image_005: https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=90
-  image_006: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=2200&q=90
+  image_004: ""
+  image_005: ""
+  image_006: ""
 site_placeholders:
   placeholder_001: What would you like to change or create?
 estimate_form_endpoint: ""
